@@ -14,7 +14,7 @@
 }
 WALLET-LINKING-END -->
 <div align="center">
- <h1>👾 Austin 👾</h1>
+ <h1>👾 Austin / "CidSociety" 👾</h1>
 <h2>*Building the Future, One Line of Code at a Time*</h2>
 
 <div align="center">
