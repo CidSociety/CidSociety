@@ -21,8 +21,8 @@ WALLET-LINKING-END -->
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web3+Developer+%F0%9F%94%97;AI+Engineer+%F0%9F%A4%96;Game+Creator+%F0%9F%8E%AE;Innovation+Catalyst+%E2%9A%A1)
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=austin109567&color=blueviolet&style=flat-square&label=Profile+Views)
-  [![GitHub followers](https://img.shields.io/github/followers/austin109567?style=social)](https://github.com/austin109567)
+  ![Profile Views](https://komarev.com/ghpvc/?username=CidSociety&color=blueviolet&style=flat-square&label=Profile+Views)
+  [![GitHub followers](https://img.shields.io/github/followers/CidSociety?style=social)](https://github.com/CidSociety)
   [![Twitter Follow](https://img.shields.io/twitter/follow/CidSociety?style=social)](https://twitter.com/CidSociety) 
   
 </div>
@@ -35,7 +35,7 @@ WALLET-LINKING-END -->
 Hey there! I'm a passionate developer living at the intersection of **Web3**, **AI**, and **Gaming**. I don't just write code—I craft experiences that push boundaries and redefine what's possible in the digital realm.
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=austin109567&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CidSociety&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 
@@ -51,8 +51,8 @@ Hey there! I'm a passionate developer living at the intersection of **Web3**, **
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-      <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=austin109567&theme=tokyo-night&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austin109567&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+      <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=CidSociety&theme=tokyo-night&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CidSociety&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
 
 </div>
 
