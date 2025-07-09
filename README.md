@@ -23,7 +23,7 @@ WALLET-LINKING-END -->
   
   ![Profile Views](https://komarev.com/ghpvc/?username=austin109567&color=blueviolet&style=flat-square&label=Profile+Views)
   [![GitHub followers](https://img.shields.io/github/followers/austin109567?style=social)](https://github.com/austin109567)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/CidSociety?style=social)](https://twitter.com/CidSociety)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/CidSociety?style=social)](https://twitter.com/CidSociety) 
   
 </div>
 
